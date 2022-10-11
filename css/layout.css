@@ -374,7 +374,7 @@ hr {
 @media(min-width:1200px){}
 
 /*** END MEDIA QUERIES ***/
-#flexHome h1{font}
+
 
 /* END TYPOGRAPHY
 ================================================== */
@@ -705,7 +705,7 @@ margin-bottom:-44px;
 		}
 	.flexslider .slides > li {height:255px;}
 }
-}
+
 
 /*** END MEDIA QUERIES ***/
 
